@@ -45,13 +45,13 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 ## 7. Camera & Photo Library Access
 The App requires access to your device's camera to function. Here is how that access is used:
 
-**Purpose**
+**Purpose**<br>
 The camera is used solely to capture images for storage within the App's interface.
 
-**Processing**
+**Processing**<br>
 All image processing happens locally on your device.
 
-**Privacy**
+**Privacy**<br>
 We cannot see, access, or share the photos you take. They remain under your total control.
 
 ## 8. User Responsibility: Protecting Your Privacy
