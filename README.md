@@ -12,11 +12,11 @@ Because your data is stored locally, you maintain complete control over it. Unin
 While we do not collect personal data on our own servers, our app utilizes third-party services to handle in-app purchases and subscriptions. These services may collect information used to identify you, process your payments, and manage your subscription status.
 
 **RevenueCat**: We use RevenueCat to manage our in-app purchases and subscriptions. When you make a purchase, RevenueCat receives receipt data from the app store (Apple App Store or Google Play Store) to validate the purchase and grant you access to premium features. RevenueCat may collect anonymous user IDs, device information, and purchase history.
-•	You can read RevenueCat's Privacy Policy here: https://www.revenuecat.com/privacy
+- You can read RevenueCat's Privacy Policy here: https://www.revenuecat.com/privacy
 
 **App Stores (Apple & Google)**: All financial transactions are processed securely by the respective app stores (Apple App Store for iOS devices, Google Play Store for Android devices). We never see, collect, or store your credit card information, billing address, or payment details.
-•	Apple Privacy Policy: https://www.apple.com/legal/privacy/
-•	Google Privacy Policy: https://policies.google.com/privacy
+- Apple Privacy Policy: https://www.apple.com/legal/privacy/
+- Google Privacy Policy: https://policies.google.com/privacy
 
 ## 3. Log Data and Analytics
 We do not use external analytics or crash tracking software that collects personally identifiable information. If the app crashes, your device's operating system may generate an anonymous crash report, which you can choose to share with us through Apple or Google's standard developer diagnostic tools.
@@ -27,12 +27,14 @@ We value your trust in providing us with your information. Because your primary 
 ## 5. Your Data Protection Rights Under GDPR
 If you are a resident of the European Economic Area (EEA) or the United Kingdom, you have certain data protection rights under the General Data Protection Regulation (GDPR) and the UK GDPR.
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data. However, because our Service is designed with a **privacy-first, local-storage architecture**, we do not collect, store, or process your primary app data on our servers. Therefore, the way you exercise your GDPR rights is primarily handled directly on your device.
+
 You have the following data protection rights:
-•	The Right to Access, Update, or Delete: You maintain complete control over the data you input into the Service. You can access, update, or delete your information directly within the app's interface. Because we do not store this data, we cannot perform these actions for you.
-•	**The Right to Erasure (Right to be Forgotten)**: You can permanently delete all your locally stored personal data by uninstalling the app from your device or clearing the app's data in your device settings.
-•	**The Right of Data Portability**: [Note to Developer: Only include this bullet if your app has an export feature (like exporting to CSV/PDF/JSON).] You have the right to be provided with a copy of your personal data. You can export your data in a structured, machine-readable format using the "Export" feature within the app's settings.
-•	**The Right to Rectification**: You have the right to have your information rectified if that information is inaccurate or incomplete. You can edit your data directly within the app.
-•	**The Right to Withdraw Consent**: You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
+- The Right to Access, Update, or Delete: You maintain complete control over the data you input into the Service. You can access, update, or delete your information directly within the app's interface. Because we do not store this data, we cannot perform these actions for you.
+- **The Right to Erasure (Right to be Forgotten)**: You can permanently delete all your locally stored personal data by uninstalling the app from your device or clearing the app's data in your device settings.
+- **The Right of Data Portability**: [Note to Developer: Only include this bullet if your app has an export feature (like exporting to CSV/PDF/JSON).] You have the right to be provided with a copy of your personal data. You can export your data in a structured, machine-readable format using the "Export" feature within the app's settings.
+- **The Right to Rectification**: You have the right to have your information rectified if that information is inaccurate or incomplete. You can edit your data directly within the app.
+- **The Right to Withdraw Consent**: You also have the right to withdraw your consent at any time where we relied on your consent to process your personal information.
+
 **Regarding In-App Purchases (RevenueCat & App Stores)**: For data processed by our third-party payment and subscription provider (RevenueCat) and the respective app stores (Apple or Google), the legal basis for processing this information is the **Performance of a Contract** (to provide you with the premium features you purchased).
 If you wish to exercise your rights regarding your purchase history, subscription status, or payment data, you must submit those requests directly to the Apple App Store or Google Play Store, as they are the data controllers for your financial transactions.
 
