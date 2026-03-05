@@ -75,6 +75,13 @@ If you are a resident of Canada, Brazil, or other jurisdictions with comprehensi
 
 Consistent with our privacy-first approach, we do not collect, transfer, or store your primary app data on our servers. You maintain total control over your information locally on your device. You can exercise your rights to access, rectify, and erase your data directly through the app’s interface or by uninstalling the app from your device.
 
+## 9. Data Retention and Appeals
+**Data Retention**: Because SlimeSpec stores data locally, we retain your information only as long as the app remains installed on your device. For data processed by third-party services (RevenueCat and App Stores), data is retained according to their respective retention policies to fulfill legal obligations and manage your subscriptions.
+
+**Right to Appeal**: If you have made a request regarding your data privacy and believe it was not adequately addressed, you have the right to appeal our decision. Please contact us at support@slimespec.com with the subject line "Privacy Appeal." We will respond to your appeal within 45 days.
+
+**Accessibility**: We are committed to making this Privacy Policy accessible to all users. If you require this policy in an alternative format, please contact us.
+
 ## 9. Children’s Privacy
 These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. If you are a parent or guardian and you are aware that your child has provided us with personal information (for example, through an app store purchase), please contact the respective app store to manage those transactions.
 
@@ -89,6 +96,8 @@ All image processing happens locally on your device.
 
 **Privacy**<br>
 We cannot see, access, or share the photos you take. They remain under your total control.
+
+Again, SlimeSpec uses your camera to capture vehicle records. Photos are stored locally on your device and are never uploaded to our servers or shared with third parties.
 
 ## 11. User Responsibility: Protecting Your Privacy
 While the App stores all data locally and securely on your device, we encourage you to be mindful of the information contained within the images you capture.
